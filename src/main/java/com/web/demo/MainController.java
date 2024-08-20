@@ -1,3 +1,7 @@
+/**
+ * 홈페이지 라우팅
+ */
+
 package com.web.demo;
 
 import org.springframework.stereotype.Controller;
